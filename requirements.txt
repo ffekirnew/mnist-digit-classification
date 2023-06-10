@@ -1,0 +1,5 @@
+python-mnist
+jupyter
+ipykernel
+numpy
+matplotlib
